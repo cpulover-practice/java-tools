@@ -2,10 +2,10 @@
 [//]: # (TODO: add list of topics)
  
 ## Lombok
-- [Jar/Maven](https://search.maven.org/search?q=g:org.projectlombok%20AND%20a:lombok&core=gav)
-- [Features](https://projectlombok.org/features/all)
-- [Implementation](https://github.com/peichhorn/lombok-pg)
-#### Annotations [[TomBokDriver]()]
+- [Jar - Maven](https://search.maven.org/search?q=g:org.projectlombok%20AND%20a:lombok&core=gav)
+- [Stable features](https://projectlombok.org/features/all)
+- [Experimental features](https://projectlombok.org/features/experimental/all)
+#### Annotations [[LomBokDriver]()]
 - @Log
 - @Data
 - @AllArgsConstructor
